@@ -38,7 +38,7 @@ const Navbar = () => {
   return (
     <Nav>
       <StyledLink to="/">
-        <NavLogo>MyApp</NavLogo>
+        <NavLogo>AI powered Workout Plan</NavLogo>
       </StyledLink>
       <NavLinks>
         <NavLink>
